@@ -1,0 +1,12 @@
+2023/07/20-13:19:34.182 8602 Reusing MANIFEST /workspaces/wa-gateway/src/session/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/20-13:19:34.182 8602 Recovering log #14
+2023/07/20-13:19:34.277 8602 Reusing old log /workspaces/wa-gateway/src/session/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000014.log 
+2023/07/20-13:21:07.064 860e Level-0 table #20: started
+2023/07/20-13:21:07.146 860e Level-0 table #20: 1175611 bytes OK
+2023/07/20-13:21:07.165 860e Delete type=0 #14
+2023/07/20-13:21:39.885 860e Compacting 1@1 + 1@2 files
+2023/07/20-13:21:40.003 860e Generated table #21@1: 35151 keys, 1281668 bytes
+2023/07/20-13:21:40.003 860e Compacted 1@1 + 1@2 files => 1281668 bytes
+2023/07/20-13:21:40.022 860e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/20-13:21:40.022 860e Delete type=2 #17
+2023/07/20-13:21:40.022 860e Delete type=2 #20
